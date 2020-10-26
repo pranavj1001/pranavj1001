@@ -1,5 +1,7 @@
 # [Pranav Jain](https://pranavj1001.github.io/)
 
+<img src="background.gif">
+
 ### Hi there 👋
 
 I'm a Senior Software Engineer from Mumbai, India. I can develop a web, mobile and desktop application. My interests lie in learning new technologies, trying out pc games, cooking and exercising.
