@@ -12,7 +12,9 @@ I'm a Senior Software Engineer from Mumbai, India. I can develop a web, mobile a
 
 Here are my stats
 
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavj1001&count_private=true&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pranavj1001&count_private=true&show_icons=true">
+</p>
 
 <!--
 **pranavj1001/pranavj1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
