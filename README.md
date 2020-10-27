@@ -9,7 +9,7 @@
 I'm a Senior Software Engineer from Mumbai, India. I can develop a web, mobile, and desktop application and lift a 110kg deadlift. My interests lie in learning new technologies, trying out pc games, cooking and exercising.
 
 🔭 I’m currently working on a very cool project which I'll add here very soon... probably...
-
+🌱 I want to learn to fly a plane. Blame the new Microsoft Flight Simulator for the interest.
 ⚡ Fun fact: Bears, beets, Battle Star Galactica
 
 Here are my stats
