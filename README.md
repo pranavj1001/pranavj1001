@@ -1,6 +1,8 @@
 # [Pranav Jain](https://pranavj1001.github.io/)
 
-<img src="background.gif">
+<p align="center">
+  <img src="background2.gif">
+</p>
 
 ### Hi there 👋
 
