@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm a Senior Software Engineer from Mumbai, India. I can develop a web, mobile and desktop application. My interests lie in learning new technologies, trying out pc games, cooking and exercising.
+I'm a Senior Software Engineer from Mumbai, India. I can develop a web, mobile, and desktop application and lift a 110kg deadlift. My interests lie in learning new technologies, trying out pc games, cooking and exercising.
 
 🔭 I’m currently working on a very cool project which I'll add here very soon... probably...
 
