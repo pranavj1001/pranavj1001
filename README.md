@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm a Software Engineer from Mumbai, India. I can develop a web, mobile, and desktop application and lift 110kg in deadlift. My interests lie in learning new technologies, trying out pc games, cooking and exercising. This page is best viewed on a dark theme 😄.
+I'm a Software Engineer from Mumbai, India. I can develop a web, mobile, and desktop application. My interests lie in learning new technologies, trying out pc games, cooking and exercising. This page is best viewed on a dark theme 😄.
 
 - 🔭  &nbsp; I’m currently working on a very cool project which I'll add here very soon... probably...
 - 🌱  &nbsp; I want to learn to fly a plane. Blame the new Microsoft Flight Simulator for the interest.
