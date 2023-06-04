@@ -10,7 +10,7 @@ I'm a Software Engineer from Mumbai, India. I can develop a web, mobile, and des
 
 - 🔭  &nbsp; I’m currently working on a very cool project which I'll add here very soon... probably...
 - 🌱  &nbsp; I want to learn to fly a plane. Blame the new Microsoft Flight Simulator for the interest.
-- ✨  &nbsp; Games that I currently play: Forza Horizon 5, Red Dead Redemption 2 and Half-Life Alynx.
+- ✨  &nbsp; Games that I currently play: Forza Horizon 5, Red Dead Redemption 2 and Half-Life Alyx.
 - ⚡  &nbsp; Fun fact: Bears, beets, Battle Star Galactica
 
 Here are my stats
