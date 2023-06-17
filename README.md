@@ -13,11 +13,13 @@ I'm a Software Engineer from Mumbai, India. I can develop a web, mobile, and des
 - ✨  &nbsp; Games that I currently play: Forza Horizon 5, Red Dead Redemption 2 and Half-Life Alyx.
 - ⚡  &nbsp; Fun fact: Bears, beets, Battle Star Galactica
 
+<!--
 Here are my stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pranavj1001&count_private=true&show_icons=true">
 </p>
+-->
 
 <!--
 **pranavj1001/pranavj1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
